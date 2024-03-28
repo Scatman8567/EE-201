@@ -1,3 +1,8 @@
-Hello EE201 D
-Adding more text to README in new branch
-# EE201 Lab1
+# About me:
+
+Name: Chase Rushing
+
+Major: Electrical and Computer Engineering
+
+Favorite Classes: PHYS 224, EE 361
+
